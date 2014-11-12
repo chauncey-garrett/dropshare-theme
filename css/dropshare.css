@@ -1,10 +1,10 @@
 @font-face {
-  font-family: 'drpcarloio';
-  src: url('../font/drpcarloio.eot?17568245');
-  src: url('../font/drpcarloio.eot?17568245#iefix') format('embedded-opentype'),
-       url('../font/drpcarloio.woff?17568245') format('woff'),
-       url('../font/drpcarloio.ttf?17568245') format('truetype'),
-       url('../font/drpcarloio.svg?17568245#drpcarloio') format('svg');
+  font-family: 'dropshare';
+  src: url('http://share.chauncey.io/dropshare/font/dropshare.eot?17568245');
+  src: url('http://share.chauncey.io/dropshare/font/dropshare.eot?17568245#iefix') format('embedded-opentype'),
+       url('http://share.chauncey.io/dropshare/font/dropshare.woff?17568245') format('woff'),
+       url('http://share.chauncey.io/dropshare/font/dropshare.ttf?17568245') format('truetype'),
+       url('http://share.chauncey.io/dropshare/font/dropshare.svg?17568245#dropshare') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -13,14 +13,14 @@
 /*
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
-    font-family: 'drpcarloio';
-    src: url('../font/drpcarloio.svg?17568245#drpcarloio') format('svg');
+    font-family: 'dropshare';
+    src: url('http://share.chauncey.io/dropshare/font/dropshare.svg?17568245#dropshare') format('svg');
   }
 }
 */
  
  [class^="icon-"]:before, [class*=" icon-"]:before {
-  font-family: "drpcarloio";
+  font-family: "dropshare";
   font-style: normal;
   font-weight: normal;
   speak: none;
