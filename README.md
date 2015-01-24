@@ -25,7 +25,9 @@ footer: true
 * Table of Contents placeholder (via kramdown)
 {:toc}
 
-My personal theme for [Dropshare](http://getdropsha.re).
+My personal theme for [Dropshare](https://itunes.apple.com/app/dropshare/id814499284?ls=1&mt=12&at=10lKXh).
+
+{% appbox appstore 814499284 %}
 
 # Screenshot
 ![screenshot](screenshot.png)
