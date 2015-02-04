@@ -16,7 +16,7 @@ tags:
   - sharing
 category: project
 description: Dropshare theme.
-keywords: TODO
+keywords:
 sharing: true
 comments: false
 footer: true
