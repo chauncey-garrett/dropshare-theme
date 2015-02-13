@@ -29,8 +29,8 @@ My personal theme for [Dropshare](https://itunes.apple.com/app/dropshare/id81449
 
 {% appbox appstore 814499284 %}
 
-# Screenshot
+## Screenshot
 ![screenshot](screenshot.png)
 
-# License
+## License
 MIT
